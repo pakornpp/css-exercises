@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+
+
+/* div p { Solution 1 */
+.container .text { /* Solution 2 */
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
